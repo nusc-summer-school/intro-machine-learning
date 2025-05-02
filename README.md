@@ -1,4 +1,4 @@
-Introduction to Machine Learning NUSC Summer School 2025
+# Introduction to Machine Learning NUSC Summer School 2025
 
 
 Welcome to the Introduction to Machine Learning workshop for the NUSC Summer School 2025! This repository contains all the materials needed to learn machine learning fundamentals.
