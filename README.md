@@ -21,24 +21,31 @@ Familiarity with numerical Python libraries (NumPy, Pandas)
 Understanding of basic statistics concepts
 A laptop with Python 3.8+ installed
 Workshop Schedule
+
 Day 1: Fundamentals and Supervised Learning
 09:00 - 10:30: Introduction to Machine Learning Concepts
 10:45 - 12:15: Data Pre-processing and Exploratory Analysis
 13:30 - 15:00: Linear Regression and Polynomial Models
 15:15 - 16:45: Classification with Logistic Regression and k-NN
+
+
 Day 2: Advanced Models and Evaluation
 09:00 - 10:30: Decision Trees and Random Forests
 10:45 - 12:15: Support Vector Machines
 13:30 - 15:00: Model Evaluation and Validation
 15:15 - 16:45: Feature Selection and Engineering
+
+
 Day 3: Unsupervised Learning and Applications
 09:00 - 10:30: Clustering Algorithms (K-means, Hierarchical)
 10:45 - 12:15: Dimensionality Reduction (PCA, t-SNE)
 13:30 - 15:00: Real-world Applications and Case Studies
 15:15 - 16:45: Final Project and Group Presentations
-Setup Instructions
+
+### Setup Instructions
 Option 1: Using Conda (Recommended)
 bash
+
 ## Clone this repository
 git clone https://github.com/nusc-summer-school/intro-machine-learning.git
 cd intro-machine-learning
