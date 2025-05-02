@@ -39,27 +39,28 @@ Day 3: Unsupervised Learning and Applications
 Setup Instructions
 Option 1: Using Conda (Recommended)
 bash
-# Clone this repository
+## Clone this repository
 git clone https://github.com/nusc-summer-school/intro-machine-learning.git
 cd intro-machine-learning
 
-# Create and activate conda environment
+## Create and activate conda environment
 conda create -n ml-workshop python=3.10
 conda activate ml-workshop
 
-# Install required packages
+## Install required packages
 pip install -r requirements.txt
 Option 2: Using pip and virtualenv
 bash
+
 # Clone this repository
 git clone https://github.com/nusc-summer-school/intro-machine-learning.git
 cd intro-machine-learning
 
-# Create and activate virtual environment
+## Create and activate virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install required packages
+## Install required packages
 pip install -r requirements.txt
 Repository Structure
 intro-machine-learning/
@@ -83,24 +84,24 @@ Customer Segmentation Dataset: Clustering task to identify customer groups
 All datasets are included in the /data directory and are freely available for educational purposes.
 
 
-Recommended Reading:
+## Recommended Reading:
 Géron, A. (2022). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media.
 James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An Introduction to Statistical Learning. Springer.
 
 
-Online Resources:
+## Online Resources:
 Scikit-learn Documentation
 Python Data Science Handbook
 Kaggle Learn
 
 
-Instructors:
+## Instructors:
 Dr. Sarah Johnson - Machine Learning Specialist, University of Cambridge
 GitHub | LinkedIn
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments:
+## Acknowledgments:
 We thank all contributors and the NUSC Summer School organizing committee for making this workshop possible.
 
 For questions or additional information, don't hesitate to get in touch with us at info@nuscsummerschool.edu
