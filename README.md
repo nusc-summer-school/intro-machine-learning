@@ -83,9 +83,10 @@ intro-machine-learning/
 ├── requirements.txt        # Required Python packages
 └── README.md               # Workshop information
 Datasets
-This workshop uses the following datasets:
 
-Housing Price Dataset: Regression task to predict housing prices
+### This workshop uses the following datasets:
+
+#### Housing Price Dataset: Regression task to predict housing prices
 Iris Flower Dataset: Classification task to identify flower species
 Customer Segmentation Dataset: Clustering task to identify customer groups
 All datasets are included in the /data directory and are freely available for educational purposes.
